@@ -1,2 +1,1 @@
-# TharOute
-AppleID Generator NightTeam400 (idmsaGEN)
+all files removed due to dcma
